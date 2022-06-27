@@ -14,7 +14,7 @@
 <p align="center">
   <img src="Assets/GitImages/cabecera.png">
   <img src="Assets/GitImages/Icono.png">
-  <img src="Assets/GitImages/Demo2.jpg">
-  <img src="Assets/GitImages/Demo3.jpg">
-  <img src="Assets/GitImages/Demo1.jpg">
+  <img src="Assets/GitImages/Demo2.jpg" width="700" height="1320">
+  <img src="Assets/GitImages/Demo3.jpg" width="700" height="1320">
+  <img src="Assets/GitImages/Demo1.jpg" width="700" height="1320">
 </p>
